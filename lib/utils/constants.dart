@@ -1,0 +1,9 @@
+const double extraSmall = 8.0;
+const double verySmall = 10.0;
+const double small = 12.0;
+const double mediumSmall = 15.0;
+const double medium = 18.0;
+const double mediumLarge = 20.0;
+const double large = 22.0;
+const double veryLarge = 26.0;
+const double extraLarge = 29.0;
